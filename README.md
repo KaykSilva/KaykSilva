@@ -53,4 +53,12 @@
 <img href="https://raw.githubusercontent.com/KaykSilva/KaykSilva/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
+
+<div align="center">
+  <a href="https://open.spotify.com/user/ShzZ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+Gerador de Leiame de Perfil
