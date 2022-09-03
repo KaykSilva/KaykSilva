@@ -49,4 +49,5 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-Profile Readme Generator
+
+<img href="https://raw.githubusercontent.com/KaykSilva/KaykSilva/blob/output/snake.svg" alt="Snake animation" />
