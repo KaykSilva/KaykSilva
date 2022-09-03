@@ -23,7 +23,9 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -41,10 +43,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/KaykSilva/KaykSilva/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
