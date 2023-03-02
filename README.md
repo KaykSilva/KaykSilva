@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kayk+Silva;I'm+19+years+old;I'm+from+Brazil;I+studying+for+analysis+and+to+develop+the+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kayksilva&bg_color=8a2b74&color=dda0dd&line=7b68ee&point=4b0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kayksilva&bg_color=171515&color=dda0dd&line=7b68ee&point=4b0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
