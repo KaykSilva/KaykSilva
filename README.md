@@ -23,7 +23,7 @@
 <br/>
 <img src="https://cdn.discordapp.com/attachments/820557032016969751/1056419021110661210/herrscher-of-human-ego-elysia.gif" width="500" /><br/>
 
-<sub>  *“"Osmanthus wine tastes the same as I remember... But where are those who share the memory?” – Zhongly* </sub>
+<sub>  *"Osmanthus wine tastes the same as I remember... But where are those who share the memory?” – Zhongly* </sub>
 </div>
 
 
