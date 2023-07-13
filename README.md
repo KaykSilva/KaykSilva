@@ -12,7 +12,7 @@
 - Main Skills <img src="https://cdn.discordapp.com/emojis/620827756653051914.png" alt="." width="16" height="16"/> JavaScript, <img src="https://cdn.discordapp.com/emojis/932559343600156674.png?size=20" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129159756314054716/logo-react-icon.png" alt="." width="16" height="16"/> React, <img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129160404363382844/1532556.png" alt="." width="16" height="16"/> HTML5 and <img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129160525956268042/732190.png" alt="." width="16" height="16"/> CSS
 
 
-<img src="https://cdn.discordapp.com/attachments/820557032016969751/1056425970774593556/Github.png" width="500" />
+<img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129162701097140244/Mask_group.png" width="500" />
 <br/>
 <br/>
   
