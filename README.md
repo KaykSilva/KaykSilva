@@ -2,7 +2,7 @@
 <div>
 <img src="https://telegra.ph/file/5099cf6e2ee5c0d42bd1f.png" width="300" align="right" border-radius="30px"/>
 <br/>
-<img src="https://telegra.ph/file/3c78d811664e0a167352d.png" width="500" />
+<img src="https://cdn.discordapp.com/attachments/1125896706970636388/1129149126693638345/Untitled_1.png" width="500" />
 <br/>
 <br/>
   
