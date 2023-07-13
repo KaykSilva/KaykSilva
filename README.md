@@ -16,48 +16,34 @@
 <br/>
 <br/>
   
-- 📗 [***aiko-chan-ai/discord.js-selfbot-v13***](https://github.com/aiko-chan-ai/discord.js-selfbot-v13) <br/>
-  An unofficial discord.js fork for creating selfbots
-- 📘 [***aiko-chan-ai/DiscordBotClient***](https://github.com/aiko-chan-ai/DiscordBotClient) <br/>
-  A patched version of discord, with bot login support
-- 📙 [***aiko-chan-ai/N0va-Desktop-File-Converter***](https://github.com/aiko-chan-ai/N0va-Desktop-File-Converter) <br/>
-  Extract videos and photos from NovaDesktop
-- 📒 [***aiko-chan-ai/NyanRPC***](https://github.com/aiko-chan-ai/NyanRPC) <br/>
-  Mini Discord RPC Client (using Electron and Node.js)
-- 📕 [***aiko-chan-ai/Discord-Markdown***](https://github.com/aiko-chan-ai/Discord-Markdown) <br/>
-  Better Markdown to text chat Discord.
+- 📗 [***Kurome Bot***](https://github.com/KaykSilva/kuromee) <br/>
+  Sticker bot for Whatsapp
+
 
 <br/>
 <img src="https://cdn.discordapp.com/attachments/820557032016969751/1056419021110661210/herrscher-of-human-ego-elysia.gif" width="500" /><br/>
 
-<sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Elysia* </sub>
+<sub>  *“"Osmanthus wine tastes the same as I remember... But where are those who share the memory?” – Zhongly* </sub>
 </div>
 
-## Discord
-<a href="https://discord.com/users/721746046543331449"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/721746046543331449?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-  </a>
 
 ## My stats:
 
 <br/>
 <p align="left">
   <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aiko-chan-ai&theme=dracula&show_icons=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiko-chan-ai&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KaykSilva&theme=dracula&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaykSilva&theme=dracula&hide_border=true" />
   </a>
 </p>
 <br>
 
 ## Commits
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/KaykSilva/KaykSilva/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/KaykSilva/KaykSilva/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=aiko-chan-ai/DiscordBotClient,aiko-chan-ai/discord.js-selfbot-v13&type=Date)](https://star-history.com/#aiko-chan-ai/DiscordBotClient&aiko-chan-ai/discord.js-selfbot-v13&Date)
 
 
 ## Thanks for reading ❤️
 
-![:aikocount](https://count.getloli.com/get/@aiko-chan-ai?theme=rule34)
+![:aikocount](https://count.getloli.com/get/@KaykSilva?theme=rule34)
