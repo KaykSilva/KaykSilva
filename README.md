@@ -1,4 +1,4 @@
-    #
+
 <div>
 <img src="https://cdn.discordapp.com/attachments/1125896706970636388/1129149819328413886/Group_1.png" width="300" align="right" border-radius="30px"/>
 <br/>
