@@ -107,9 +107,6 @@
   <img height="" src="https://i.pinimg.com/564x/23/bf/ef/23bfef511804a610877fdb0d9914b6c9.jpg"  />
 </div>
 
-<div align="center">
-  ![:aikocount](https://count.getloli.com/get/@KaykSilva?theme=rule34)
-</div>
 
 
 ###
