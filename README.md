@@ -85,7 +85,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
@@ -95,6 +95,18 @@
 
 ###
 
-<img src="https://github.com/KaykSilva/KaykSilva/blob/main/snake.yml" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/564x/16/cd/1f/16cd1f8ec278e96213e9a2a968d000cb.jpg"  />
+</div>
+
+###
+
+<h3 align="center">〽️ STATISTICS 〽️</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaykSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
+</div>
 
 ###
