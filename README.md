@@ -1,45 +1,100 @@
-
-<div>
-<img src="https://cdn.discordapp.com/attachments/1125896706970636388/1129149819328413886/Group_1.png" width="300" align="right" border-radius="30px"/>
-<br/>
-<img src="https://cdn.discordapp.com/attachments/1125896706970636388/1129149126693638345/Untitled_1.png" width="500" />
-<br/>
-<br/>
-  
-- <img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129157536457703564/3022562.png" alt="." width="16" height="16"/> Student from Brazil  
-- <img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129158738046095390/1024px-Circle-icons-dev.png" alt="." width="16" height="16"/> Dev Full Stack 
-
-- Main Skills <img src="https://cdn.discordapp.com/emojis/620827756653051914.png" alt="." width="16" height="16"/> JavaScript, <img src="https://cdn.discordapp.com/emojis/932559343600156674.png?size=20" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129159756314054716/logo-react-icon.png" alt="." width="16" height="16"/> React, <img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129160404363382844/1532556.png" alt="." width="16" height="16"/> HTML5 and <img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129160525956268042/732190.png" alt="." width="16" height="16"/> CSS
-
-
-<img src="https://cdn.discordapp.com/attachments/1129157435865698425/1129162701097140244/Mask_group.png" width="500" />
-<br/>
-<br/>
-  
-- 📗 [***Kurome Bot***](https://github.com/KaykSilva/kuromee) <br/>
-  Sticker bot for Whatsapp
-
-
-<br/>
-<img src="https://cdn.discordapp.com/attachments/820557032016969751/1056419021110661210/herrscher-of-human-ego-elysia.gif" width="500" /><br/>
-
-<sub>  *"Osmanthus wine tastes the same as I remember... But where are those who share the memory?” – Zhongly* </sub>
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/564x/55/71/94/557194a565e0d64bc4c56754006f14c9.jpg"  />
 </div>
 
+###
 
-## My stats:
-
-<br/>
-<p align="left">
-  <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KaykSilva&theme=dracula&show_icons=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaykSilva&theme=dracula&hide_border=true" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/kayk-silva-79639628b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
-<br>
+  <a href="https://www.youtube.com/@Shunsukezx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.gg/hUt4xXBY" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/kayk.blr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
+###
 
+<h1 align="center">hey there 👋</h1>
 
-## Thanks for reading ❤️
+###
 
-![:aikocount](https://count.getloli.com/get/@KaykSilva?theme=rule34)
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">-🟢Student from Brazil<br>- 🔭 I'm working on news projects<br>- 📚 I am currently learning new technologies</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<h3 align="left">🧠 Learning</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/564x/23/bf/ef/23bfef511804a610877fdb0d9914b6c9.jpg"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KaykSilva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/KaykSilva/KaykSilva/output/snake.svg" alt="Snake animation" />
+
+###
