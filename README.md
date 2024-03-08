@@ -95,6 +95,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KaykSilva/KaykSilva/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/KaykSilva/KaykSilva/blob/main/snake.yml" alt="Snake animation" />
 
 ###
