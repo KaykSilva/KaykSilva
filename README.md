@@ -80,22 +80,6 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.pinimg.com/564x/23/bf/ef/23bfef511804a610877fdb0d9914b6c9.jpg"  />
-</div>
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaykSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
   <img height="200" src="https://i.pinimg.com/564x/16/cd/1f/16cd1f8ec278e96213e9a2a968d000cb.jpg"  />
 </div>
 
@@ -106,7 +90,22 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaykSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaykSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="" src="https://i.pinimg.com/564x/23/bf/ef/23bfef511804a610877fdb0d9914b6c9.jpg"  />
+</div>
+
+![:aikocount](https://count.getloli.com/get/@KaykSilva?theme=rule34)
 ###
