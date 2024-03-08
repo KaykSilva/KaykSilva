@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/564x/55/71/94/557194a565e0d64bc4c56754006f14c9.jpg"  />
+  <img height="" src="https://i.pinimg.com/564x/55/71/94/557194a565e0d64bc4c56754006f14c9.jpg"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">-🟢Student from Brazil<br>- 🔭 I'm working on news projects<br>- 📚 I am currently learning new technologies</p>
+<p align="left">- 🟢Student from Brazil<br>- 🔭 I'm working on news projects<br>- 📚 I am currently learning new technologies</p>
 
 ###
 
@@ -80,7 +80,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/23/bf/ef/23bfef511804a610877fdb0d9914b6c9.jpg"  />
+  <img height="" src="https://i.pinimg.com/564x/23/bf/ef/23bfef511804a610877fdb0d9914b6c9.jpg"  />
 </div>
 
 ###
@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KaykSilva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaykSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
