@@ -84,14 +84,31 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaykSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KaykSilva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api?username=KaykSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false"
+          height="180"
+          alt="stats graph"
+        />
+      </td>
+      <td>
+        <img
+          align="center"
+          src="https://streak-stats.demolab.com?user=KaykSilva&theme=dracula&hide_border=false"
+          height="180"
+          alt="streak graph"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ###
 
