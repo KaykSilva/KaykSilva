@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">🎯Check my projects: https://kayk-silva.vercel.app/</h3>
+<h3 align="left">🎯Check my projects: https://www.okayk.space//</h3>
 
 ###
 
